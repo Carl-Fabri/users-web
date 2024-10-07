@@ -1,0 +1,21 @@
+{
+  "data":
+  [
+      {
+          "accesstoken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5YWNjMDQ4NC04MzQ3LTRmOWMtOTUzNi1lYjYwYmY1NDA4OWMiLCJqdGkiOiJiMzlmZDY0YzZmOGQ0NGYyNTMwNGE3MDBhNThiZTc4MGU1NGEwODkyNTRiMTIzN2U2OTRkMTMzMjUzMTAxNzkxNjdiYTU4YWQ5ZmZlYmRmOSIsImlhdCI6MTcyODAxMTIwMC41OTg5ODksIm5iZiI6MTcyODAxMTIwMC41OTg5OTQsImV4cCI6MTc1OTU0NzIwMC41Nzk4MDksInN1YiI6IjEiLCJzY29wZXMiOltdfQ.QG98EKzRfhsjHIXTEo44qw5iOHdPIOvT95Ln6nPnlhaiVQL1Yq3fR1JUf2fSHVK2grwpGlKJ-PUL5x-2iXlUAcQVa71fWyoK6CgexxfZVmN5lImmtbKpbIDS--3B46EcQrXxBu9T2CYo2U2-Z7XWCpp-o0dqWr_fij6Y2wlVN76Ip5GXBhKHiHIsA-1yZIa-XevDWZXTuixv_gZgCDUVJbwuG7XkVfQKc2P46H3UJ_AsaUBOXt77RZcqLQbrEf0jvwh2SG_Mlpu7ai5TAscuOuFO3GQJV1UwfZqarReEbYf1CNbuzoUGgdrZ4IlIf84oaPZe5Tqzm-lxUwSZ2zuHdQAytgN5GxIw1bOwkDblVdaXeHMXy1fw6Fj95ODpnJ6SSlOL0PC2BOROBAY4sfRIABWIHsiQNjynzGPrKsUGT-pZby6IzaPq24dA-gMzD-WY5USiH2nFKIcDROjGJQGv6Wy73BFxVFY2M4kiQw-hui8zOGlf9yUHRm3RddQu65it1Q3QzFMRidR2PH3RfNWReGsb2PtQJgJD9KcDTDoHWc8n_fXBB4xYNiC12Llrusm8xep7Or7qo9wM4VH9aQZP7FSslOWOD-EbTY0lSIHF7ZjksfCsRIafKpytpyL8BhwlP33aQ8kY3gp4goLUrrWWTcj9t1rTi2Bl2-efqySuQY",
+          "id": 1,
+          "name": "CLIENT",
+          "email": "client@gmail.com",
+          "password": "secret",
+          "photo": "https://backend.misiratech.com/temps-uploads/user-photos/user.png",
+          "roles": [
+              {
+                  "permission_level": 1,
+                  "permission_name": "CLIENT"
+              }
+          ],
+          "token_type": "Bearer",
+          "expires_at": "2024-10-10 22:06:40"
+      }
+  ]
+}
